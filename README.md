@@ -19,4 +19,4 @@
 <h4>例：fix(api): 更换接口</h4>
 
 <h1>css样式使用tailwindcss</h1>
-<a href="https://www.tailwindcss.cn/docs/installation"></a>
+<a href="https://www.tailwindcss.cn/docs/installation">tailwindcss</a>
